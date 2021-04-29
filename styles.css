@@ -1,0 +1,81 @@
+.purple{
+background-color:#ff86f4;
+}
+.red{
+background-color:#ff3333;
+}
+.orange{
+background-color:#ff9933;
+}
+.blue{
+background-color:#1aa3ff;
+}
+.yellow{
+background-color:#ffff33;
+}
+.green{
+background-color:#00ff55;
+}
+.sea{
+background-color:#1aff8c;
+}
+.sky{
+background-color:#66d9ff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+div {
+    width:100px;
+    height:100px;
+    border: 1px solid black;
+    float:left;
+    padding: 1px;
+    text-align:center;
+}
